@@ -26,21 +26,21 @@ Streaming Recommendations is a desktop application that provides personalized re
 
 Clone the repository:
 
-'''bash
+```bash
 git clone https://github.com/yourusername/streaming-recommendations.git
-'''
+```
 
 Navigate to the cloned directory and install the required dependencies:
 
-\`\`\`bash
+```bash
 pip install pillow requests
-\`\`\`
+```
 
 Run the `app.py` file to launch the application:
 
-\`\`\`bash
+```bash
 python app.py
-\`\`\`
+```
 
 ## Usage
 
