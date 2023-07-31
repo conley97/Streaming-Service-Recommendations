@@ -10,10 +10,6 @@ Streaming Recommendations is a desktop application that provides personalized re
 - **Search Functionality:** Search for specific titles using various filters such as movies, TV shows, or both.
 - **Title Details:** Click on a title to view detailed information including poster, description, rating, and streaming services.
 
-## Screenshots
-
-(You can add screenshots of your application here to give a visual preview)
-
 ## Dependencies
 
 - Python 3.x
@@ -30,11 +26,7 @@ Clone the repository:
 git clone https://github.com/yourusername/streaming-recommendations.git
 ```
 
-Navigate to the cloned directory and install the required dependencies:
-
-```bash
-pip install pillow requests
-```
+Navigate to the cloned directory and install the required dependencies
 
 Run the `app.py` file to launch the application:
 
