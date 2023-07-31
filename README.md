@@ -45,10 +45,6 @@ python app.py
 
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE.md file for details.
-
 ## Acknowledgments
 
 Special thanks to The Movie Database (TMDb) for providing the data.
