@@ -23,7 +23,7 @@ Streaming Recommendations is a desktop application that provides personalized re
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/streaming-recommendations.git
+git clone https://github.com/conley97/streaming-recommendations.git
 ```
 
 Navigate to the cloned directory and install the required dependencies
